@@ -74,7 +74,7 @@ public class TeamBuilder {
 		defog = true;
 		rapidSpin = true;
 		
-		presetTeam = new String[]{"Tapu Lele", "Dugtrio"};
+		presetTeam = new String[]{"Tapu Lele"};
 		
 		presetBuildSet = new String[]{"Mantine", "Pheromosa", "Mandibuzz", "Gyarados-Mega","Landorus-Therian", "Tapu Koko", "Landorus", "Tapu Fini", "Genesect", "Latios", "Tapu Lele", "Venusaur-Mega", "Rotom-Wash", "Tapu Bulu", "Toxapex", "Ferrothorn", "Celesteela", "Heatran", "Marowak-Alola", "Metagross-Mega", "Garchomp", "Magearna", "Hoopa-Unbound", "Buzzwole", "Greninja", "Dugtrio", "Alakazam", "Charizard-Mega-X", "Tangrowth", "Magnezone", "Scizor-Mega", "Mimikyu", "Porygon-Z", "Tornadus-Therian", "Keldeo", "Clefable", "Excadrill", "Hippowdon", "Nihilego", "Xurkitree", "Bisharp", "Kartana", "Skarmory", "Weavile", "Amoonguss", "Chansey", "Muk-Alola", "Kyurem-Black", "Manaphy", "Zygarde-10%", "Jirachi"};
 		presetTiers = new String[]{};
