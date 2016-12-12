@@ -1,4 +1,4 @@
-package com.cwgames.pokemonteambuilder2.main;
+package com.cwgames.pokemonteambuilder.main;
 
 public class BaseStats {
 
