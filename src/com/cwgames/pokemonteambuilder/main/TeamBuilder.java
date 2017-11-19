@@ -15,7 +15,7 @@ public class TeamBuilder {
     
     private static final String typeChartPath = "assets/data/currentgen/typechart";
     private static final String pokedexPath = "assets/data/currentgen/pokedex";
-    private static final String formatsPath = "assets/data/currentgen/formats";
+    private static final String formatsPath = "assets/data/gen6/formats";
     private static final String sampleTeamsPath = "assets/data/sampleteams2";
     
     private static boolean stealthRocks;
@@ -71,15 +71,15 @@ public class TeamBuilder {
 		spikes = false;
 		toxicSpikes = false;
 //		conditionalHazardControl = true;
-		defog = false;
-		rapidSpin = false;
+		defog = true;
+		rapidSpin = true;
 		
-		presetTeam = new String[]{"Zygarde-10%", "Toxapex"};
+		presetTeam = new String[]{"Haxorus", "Magnezone"};
 		
-		presetBuildSet = new String[]{"Mantine", "Pheromosa", "Mandibuzz", "Gyarados-Mega","Landorus-Therian", "Tapu Koko", "Landorus", "Tapu Fini", "Genesect", "Latios", "Tapu Lele", "Venusaur-Mega", "Rotom-Wash", "Tapu Bulu", "Toxapex", "Ferrothorn", "Celesteela", "Heatran", "Marowak-Alola", "Metagross-Mega", "Garchomp", "Magearna", "Hoopa-Unbound", "Buzzwole", "Greninja", "Dugtrio", "Alakazam", "Charizard-Mega-X", "Tangrowth", "Magnezone", "Scizor-Mega", "Mimikyu", "Porygon-Z", "Tornadus-Therian", "Keldeo", "Clefable", "Excadrill", "Hippowdon", "Nihilego", "Xurkitree", "Bisharp", "Kartana", "Skarmory", "Weavile", "Amoonguss", "Chansey", "Muk-Alola", "Kyurem-Black", "Manaphy", "Zygarde-10%", "Jirachi"};
-		presetTiers = new String[]{};
+		presetBuildSet = new String[]{};
+		presetTiers = new String[]{"OU", "BL"};
 		additionalPokemon = new String[]{};
-		excludedPokemon = new String[]{"Aggron-Mega", "Altaria-Mega", "Ampharos-Nega", "Audino-Mega", "Banette-Mega", "Beedrill-Mega", "Blaziken-Mega", "Camerupt-Mega", "Diancie-Mega", "Gallade-Mega", "Gardevoir-Mega", "Heracross-Mega", "Houndoom-Mega", "Latias-Mega", "Latios-Mega", "Lopunny-Mega", "Manectric-Mega", "Mawile-Mega", "Medicham-Mega", "Mewtwo-Mega-X", "Mewtwo-Mega-Y", "Pidgeot-Mega", "Steelix-Mega", "Sceptile-Mega", "Swampert-Mega", "Tyranitar-Mega"};
+		excludedPokemon = new String[]{};
 		
 		preferredStealthRockers = new String[]{"Excadrill", "Marowak-Alola", "Garchomp", "Landorus-Therian", "Landorus", "Heatran", "Clefable", "Ferrothorn", "Hippowdon"};
 		preferredSpikers = new String[]{"Skarmory", "Ferrothorn", "Greninja", "Klefki", "Scolipede"};
