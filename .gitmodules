@@ -1,0 +1,3 @@
+[submodule "honko-damagecalc"]
+	path = honko-damagecalc
+	url = https://github.com/Zarel/honko-damagecalc.git
