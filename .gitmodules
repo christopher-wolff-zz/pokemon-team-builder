@@ -1,3 +1,6 @@
 [submodule "honko-damagecalc"]
 	path = honko-damagecalc
 	url = https://github.com/Zarel/honko-damagecalc.git
+[submodule "Pokemon-Showdown"]
+	path = Pokemon-Showdown
+	url = https://github.com/Zarel/Pokemon-Showdown.git
