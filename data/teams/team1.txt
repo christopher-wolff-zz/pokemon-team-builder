@@ -1,0 +1,54 @@
+Landorus-Therian @ Choice Scarf
+Ability: Intimidate
+EVs: 80 HP / 148 Atk / 84 SpA / 196 Spe
+Naive Nature
+- U-turn
+- Earthquake
+- Hidden Power [Ice]
+- Defog
+
+Greninja-Ash @ Choice Specs
+Ability: Battle Bond
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Hydro Pump
+- Dark Pulse
+- Water Shuriken
+- Spikes
+
+Medicham-Mega @ Medichamite
+Ability: Telepathy
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Fake Out
+- High Jump Kick
+- Zen Headbutt
+- Ice Punch
+
+Tangrowth @ Assault Vest
+Ability: Regenerator
+EVs: 248 HP / 28 Def / 232 SpD
+Sassy Nature
+- Leaf Storm
+- Knock Off
+- Hidden Power [Ice]
+- Earthquake
+
+Tapu Koko @ Electrium Z
+Ability: Electric Surge
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- U-turn
+- Thunderbolt
+- Hidden Power [Ice]
+- Taunt
+
+Heatran @ Leftovers
+Ability: Flash Fire
+EVs: 252 HP / 4 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Stealth Rock
+- Magma Storm
+- Earth Power
+- Taunt
